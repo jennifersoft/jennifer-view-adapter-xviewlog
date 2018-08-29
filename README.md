@@ -4,7 +4,7 @@ Execute the following in the Jennifer management screen.
 
  1. Extension & Notice > Adapter and Plugin
  2. Click the Add button.
- 3. Select the 'XVIEW' type.
+ 3. Select the 'TRANSACTION' type.
  4. Enter the 'xviewlog' ID.
  5. Enter the adapter path directly or upload the file.
  6. Enter the class 'com.aries.xviewlog.LogAdapter'.
