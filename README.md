@@ -35,4 +35,4 @@ Different versions of the server support different adapter versions.
 | Adapter version           | Jennifer server version |
 | ------------- |:-------------:|
 | 1.0.0       | Greater than or equal to version 5.2.3 |
-| 1.1.0       | Greater than or equal to version 5.4.0 |
+| 1.1.0       | Greater than or equal to version 5.3.3.7 |
