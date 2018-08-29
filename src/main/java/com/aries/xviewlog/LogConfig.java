@@ -1,7 +1,6 @@
-package util;
+package com.aries.xviewlog;
 
-import prop.LogProp;
-import com.jennifersoft.view.extension.util.PropertyUtil;
+import com.aries.extension.util.PropertyUtil;
 
 public class LogConfig {
     static final LogProp prop = new LogProp();

@@ -1,4 +1,4 @@
-package prop;
+package com.aries.xviewlog;
 
 public class LogProp {
     private String pattern;

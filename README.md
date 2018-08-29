@@ -7,7 +7,7 @@ Execute the following in the Jennifer management screen.
  3. Select the 'XVIEW' type.
  4. Enter the 'xviewlog' ID.
  5. Enter the adapter path directly or upload the file.
- 6. Enter the class 'xview.LogAdapter'.
+ 6. Enter the class 'com.aries.xviewlog.LogAdapter'.
 
 
 ## How to use Options
@@ -35,3 +35,4 @@ Different versions of the server support different adapter versions.
 | Adapter version           | Jennifer server version |
 | ------------- |:-------------:|
 | 1.0.0       | Greater than or equal to version 5.2.3 |
+| 1.1.0       | Greater than or equal to version 5.4.0 |
